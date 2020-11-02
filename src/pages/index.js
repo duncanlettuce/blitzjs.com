@@ -307,7 +307,7 @@ function Home() {
           <Text>
             One command to install code and/or packages into your blitz app. Examples: `blitz
             install tailwind` or `blitz install chakra`. Multiple offical recipes, but anyone can
-            create an publish their own.
+            create and publish their own.
           </Text>
         </Feature>
 
